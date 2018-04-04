@@ -5,24 +5,24 @@
 
 ### 프로젝트 폴더 구조
 
-ProjectDirectory
+    ProjectDirectory
 
-    - AppDelegate
-    - Common
-        - Extentions
-        - Protocols
-        - Supers
-    - Modules
-    - Resource
-        - Storyboards
-    - Scenes
-        - Intro
-        - Root
+        - AppDelegate
+        - Common
+            - Extentions
+            - Protocols
+            - Supers
+        - Modules
+        - Resource
+            - Storyboards
+        - Scenes
+            - Intro
+            - Root
 
-ProjectTestsDirectory
+    ProjectTestsDirectory
 
-Thirdpartys
+    Thirdpartys
 
-    - Frameworks
-    - Librarys
-    - Opensources
+        - Frameworks
+        - Librarys
+        - Opensources
