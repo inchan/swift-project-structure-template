@@ -1,2 +1,2 @@
-# swift-project-structure-template
-swift project structure template
+# template-project-structure-swift
+template-project-structure-swift
