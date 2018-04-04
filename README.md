@@ -16,6 +16,7 @@
         - Resource
             - Storyboards
         - Scenes
+            - Commons
             - Intro
             - Root
 
